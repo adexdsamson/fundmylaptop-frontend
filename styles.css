@@ -1,0 +1,97 @@
+
+h4 {
+    font-size: 32px;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 42px;
+    color: #04172a;
+}
+h5 {
+    font-family: DM Sans;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: normal;
+    color: #04172A;
+}
+.badge-public {
+    background-color: #fb3f5c;
+    color: white;
+    padding: 8px 16px;
+    text-transform: uppercase;
+    font-family: Open Sans;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    margin-right: 15px
+}
+.filter {
+    width: 376px;
+    background: white;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
+.card {
+    border: 1px solid rgba(4, 23, 42, 0.25);
+    border-radius: 5px;
+}
+.card-title {
+    font-size: 20px;
+    line-height: 26px;
+    font-style: normal;
+    font-weight: normal;
+}
+.label {
+    font-size: 20px;
+    line-height: 26px;
+    font-style: normal;
+    font-weight: normal;
+    font-family: DM Sans;
+    line-height: 21px;
+    margin-bottom: 15px;
+}
+.form-control {
+    color: rgba(4, 23, 42, 0.3);
+    border: 2px solid #04172A;
+    border-radius: 5px;
+    font-family: DM Sans;
+    box-sizing: border-box;
+}
+input[type=number] {
+    appearance: none;
+}
+input:focus {
+    color: black
+}
+.box {
+    width: 340px;
+    height: 177px;
+    border: 1px solid rgba(4, 23, 42, 0.25);
+    margin-bottom: 5%;
+    margin-right: auto;
+    padding: 15px;
+}
+.box2 {
+    width: 340px;
+    height: 177px;
+    border: 1px solid rgba(4, 23, 42, 0.25);
+    margin-bottom: 5%;
+    margin-left: auto;
+    padding: 15px;
+}
+.box-name {
+    display: inline;
+    font-size: 24px;
+    line-height: 32px;
+}
+.box-avatar {
+    border-radius: 50px;
+    float: right;
+    height: 64px;
+    width: 64px;
+}
+.cap {
+    text-transform: capitalize;
+}
